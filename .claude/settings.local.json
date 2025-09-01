@@ -8,7 +8,8 @@
       "Bash(node:*)",
       "Bash(npm:*)",
       "Bash(claude mcp add:*)",
-      "Bash(git commit:*)"
+      "Bash(git commit:*)",
+      "Bash(git log:*)"
     ],
     "deny": []
   }
