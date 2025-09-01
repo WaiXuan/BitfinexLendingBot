@@ -7,7 +7,8 @@
       "Bash(git init:*)",
       "Bash(node:*)",
       "Bash(npm:*)",
-      "Bash(claude mcp add:*)"
+      "Bash(claude mcp add:*)",
+      "Bash(git commit:*)"
     ],
     "deny": []
   }
