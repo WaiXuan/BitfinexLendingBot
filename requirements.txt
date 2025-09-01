@@ -1,0 +1,6 @@
+aiohttp==3.10.3
+schedule==1.2.2
+requests==2.32.3
+bitfinex-api-py==3.0.4
+python-dotenv==1.0.1
+pandas==2.3.1

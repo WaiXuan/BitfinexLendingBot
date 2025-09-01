@@ -4,7 +4,10 @@
       "Bash(rm:*)",
       "Bash(git add:*)",
       "Bash(git reset:*)",
-      "Bash(git init:*)"
+      "Bash(git init:*)",
+      "Bash(node:*)",
+      "Bash(npm:*)",
+      "Bash(claude mcp add:*)"
     ],
     "deny": []
   }
